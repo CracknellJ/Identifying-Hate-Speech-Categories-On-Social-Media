@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.5)  24 MAR 2021 21:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.5)  26 MAR 2021 20:29
 entering extended mode
 **"./Identifying Hate Speech Categories On Social Media.tex"
 ("Identifying Hate Speech Categories On Social Media.tex"
@@ -288,15 +288,10 @@ ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
-Underfull \hbox (badness 5504) in paragraph at lines 35--39
-\OT1/ptm/m/n/10 on-line. (Lo-gis-tic re-gres-sion, SVM, Deep neu-ral nets)
- []
+) [1{C:/Users/jackc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
-Underfull \vbox (badness 1910) has occurred while \output is active []
-
-
+]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -308,29 +303,27 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/Users/jackc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+[2
 
-
-]
-("Identifying Hate Speech Categories On Social Media.aux") ) 
+] ("Identifying Hate Speech Categories On Social Media.aux") ) 
 Here is how much of TeX's memory you used:
- 3833 strings out of 480236
- 56994 string characters out of 2880559
- 339335 words of memory out of 3000000
- 20385 multiletter control sequences out of 15000+200000
+ 3837 strings out of 480236
+ 57010 string characters out of 2880559
+ 340347 words of memory out of 3000000
+ 20389 multiletter control sequences out of 15000+200000
  565591 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,882b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/jackc/App
-Data/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/jackc/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jackc/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/jackc/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jackc/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Identifying Hate Speech Categories On Social Media.pdf" (1 p
-age, 59161 bytes).
+ 60i,8n,66p,1084b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/jackc/A
+ppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/jackc/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jackc/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/jackc/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jackc/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Identifying Hate Speech Categories On Social Media.pdf" (2 p
+ages, 61956 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

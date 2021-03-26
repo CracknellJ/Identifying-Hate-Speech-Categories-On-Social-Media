@@ -33,16 +33,22 @@ Social media, Hate speech
 
 \section{Introduction}
 Hate speech has been defined as 'any communication that disparages a person or a group on the basis of some characteristics such as race, colour, ethnicity, gender, sexual orientation, nationality, religion, or other characteristics' \cite{b1}. \\
-With the ever growing population of social media sites, there has been an explosion of posts that have been uploaded to them. Due to this, there has also been an increase in the amount of hateful activity online. Successfully identifying these hate speech messages through machine learning models aids in removing not only the messages themselves but also similar posts, stemming the amount of hate that can be spread. Furthermore, having the ability to classify hate speech posts into the most relevant subclass can give insight into what type of hate is most prevalent.\\
+With the ever growing population of social media sites, there has been an explosion of posts that have been uploaded to them. Due to this, there has also been an increase in the amount of hateful activity online. Some of this hateful activity has been broadcast in real time on social media sites, such as the Christchurch shooting in 2019 \cite{b6}. Successfully identifying these hate speech messages through machine learning models aids in removing not only the messages themselves but also similar posts, stemming the amount of hate that can be spread. Having a state-of-the-art hate speech classification model may also increase the speed and accuracy at which social media sites can identify possible perpetrators of hateful actions in the real world, since many individuals who commit violent hate crimes have previously posted hate speech online \cite{b7} Furthermore, having the ability to classify hate speech posts into the most relevant subclass can give insight into what type of hate is most prevalent.\\
 Before automatic natural language processing (NLP) models were introduced, websites would aim to block hate speech by having filters around specific words and phrases, but this is extremely time consuming. Word filters also scale poorly due to the quick evolution of language \cite{b2, b3}. Therefore an effective NLP model must be adaptable to new language and efficient in parsing through huge datasets. \\
-There are various NLP methods for tackling hate speech online. (Logistic regression, SVM, Deep neural nets) also (ngram, sentiment analysis, pos tags) ========== TALK ABOUT SOME DIFFERENT APPROACHES HERE ==========
+There are various NLP methods for tackling hate speech online. Some classical approaches include Logistic regression, Support Vector Machines and Deep neural networks. In recent years, neural network models have become the industry standard state-of-the-art approach \cite{b4}, although in some cases, the results given by neural networks can be difficult to interpret \cite{b5}.
 
-\pagebreak
-social media (using twitter data for this proj), specific NLP models and their background / papers they were developed on. Mention collecting multiple data sources together for a large range of different hate speech types. try to get 4 or 5 references in here, multiple references from the same paper is fine too.\\ Talk about some issues past papers (bias, unbalanced classes, different perceptions of hate speech) have come across and how they will be answered by my research
+social media (using twitter data for this proj), Mention collecting multiple data sources together for a large range of different hate speech types.\\ Talk about some issues past papers (bias, unbalanced classes, different perceptions of hate speech) have come across and how they will be answered by my research
 
 \section{Background and related work}
 Related papers on hate speech detection, word filters, nlp models, find a paper on 'cyberbullying'
 Background topics
+specific NLP models and their background / papers they were developed on.
+
+\subsection{Classification models}
+(Logistic regression, SVM, Deep neural nets)
+
+\subsection{Feature space reduction}
+(ngram, sentiment analysis, pos tags)
 
 \subsection{subsection 1}
 Subtopic 1
@@ -70,6 +76,10 @@ editors, \textit{Encyclopedia of the American Constitution},
 pages 1277–1279. Macmillan, 2nd edition.
 \bibitem{b2} Schmidt, A. and Wiegand, M., 2017, April. A survey on hate speech detection using natural language processing. \textit{In Proceedings of the fifth international workshop on natural language processing for social media} (pp. 1-10).
 \bibitem{b3} Badjatiya, P., Gupta, S., Gupta, M. and Varma, V., 2017, April. Deep learning for hate speech detection in tweets. \textit{In Proceedings of the 26th international conference on World Wide Web companion} (pp. 759-760).
+\bibitem{b4} Zimmerman, S., Kruschwitz, U. and Fox, C., 2018, May. Improving hate speech detection with deep learning ensembles. \textit{In Proceedings of the Eleventh International Conference on Language Resources and Evaluation} (LREC 2018).
+\bibitem{b5} MacAvaney, S., Yao, H.R., Yang, E., Russell, K., Goharian, N. and Frieder, O., 2019. Hate speech detection: Challenges and solutions. \textit{PloS one}, 14(8), p.e0221152.
+\bibitem{b6} Regan, A., Gunter, J. (2019). 'Reaction to NZ mosque attacks', \textit{BBC}, 15 March. Available at: https://www.bbc.co.uk/news/live/world-asia-47578860 (Accessed: 26 March 2021).
+\bibitem{b7} Hatzipanagos, R. (2018). 'How online hate turns into reallife violence', \textit{Washington Post}, 30 November. \\ Available at: https://www.washingtonpost.com/nation/2018/11/30/how-online-hate-speech-is-fueling-real-life-violence/ (Accessed: 26 March 2021).
 \end{thebibliography}
 \vspace{12pt}
 
