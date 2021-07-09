@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.5)  17 JUN 2021 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.5)  8 JUL 2021 23:23
 entering extended mode
 **"./Identifying Hate Speech Categories On Social Media.tex"
 ("Identifying Hate Speech Categories On Social Media.tex"
@@ -242,56 +242,130 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:\Users\jackc\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count272
+\float@exts=\toks22
+\float@box=\box51
+\@float@everytoks=\toks23
+\@floatcapt=\box52
 )
 (C:\Users\jackc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count272
-\l__pdf_internal_box=\box51
+\l__kernel_color_stack_int=\count273
+\l__pdf_internal_box=\box53
 ) ("Identifying Hate Speech Categories On Social Media.aux")
 \openout1 = `"Identifying Hate Speech Categories On Social Media.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 -- Lines per column: 56 (exact).
 
 (C:\Users\jackc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
+\scratchcounter=\count274
 \scratchdimen=\dimen173
-\scratchbox=\box52
-\nofMPsegments=\count274
-\nofMParguments=\count275
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count276
+\scratchbox=\box54
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count277
 \MPscratchDim=\dimen174
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
-\everyMPtoPDFconversion=\toks23
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks25
 )
 (C:\Users\jackc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-) [1{C:/Users/jackc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
+
+
+(C:\Users\jackc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
+
+
+(C:\Users\jackc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 57--64
+
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 57--64
+\OT1/ptm/m/n/10 The method-ol-ogy dif-fers slightly when more than two
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 57--64
+\OT1/ptm/m/n/10 sup-port multi-class clas-si-fi-ca-tion. This new tech-nique is
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--64
+
+ []
+
+[1{C:/Users/jackc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<Support_vectors.png, id=13, 491.58656pt x 432.11438pt>
+File: Support_vectors.png Graphic file (type png)
+<use Support_vectors.png>
+Package pdftex.def Info: Support_vectors.png  used on input line 76.
+(pdftex.def)             Requested size: 180.60315pt x 158.75232pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[2 <./Support_vectors.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -303,27 +377,32 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2
-
-] ("Identifying Hate Speech Categories On Social Media.aux") ) 
+[3] ("Identifying Hate Speech Categories On Social Media.aux") ) 
 Here is how much of TeX's memory you used:
- 3837 strings out of 480236
- 57010 string characters out of 2880559
- 340347 words of memory out of 3000000
- 20389 multiletter control sequences out of 15000+200000
- 565591 words of font info for 78 fonts, out of 3000000 for 9000
+ 3960 strings out of 480236
+ 58782 string characters out of 2880559
+ 350803 words of memory out of 3000000
+ 20483 multiletter control sequences out of 15000+200000
+ 573700 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,1084b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/jackc/A
-ppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/jackc/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jackc/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/jackc/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jackc/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Identifying Hate Speech Categories On Social Media.pdf" (2 p
-ages, 62181 bytes).
+ 60i,10n,66p,1084b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/jackc
+/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/jackc/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/j
+ackc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:
+/Users/jackc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr7.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/times/utmb8a.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/times/utmbi8a.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/fon
+ts/type1/urw/times/utmr8a.pfb><C:/Users/jackc/AppData/Local/Programs/MiKTeX/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on "Identifying Hate Speech Categories On Social Media.pdf" (3 p
+ages, 167262 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
